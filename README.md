@@ -31,6 +31,8 @@ Termux or any Linux terminal
 git clone https://github.com/Hayshan56/VulXscan.git
 cd VulXscan
 pip install -r requirements.txt
+
+Starting code:
 python vulxscan.py
 
 ---
